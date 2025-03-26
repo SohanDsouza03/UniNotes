@@ -60,8 +60,8 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sohandsouza03/notes-buddy.git
-   cd notes-buddy
+   git clone https://github.com/sohandsouza03/uninotes.git
+   cd uninotes
    ```
 
 2. Install dependencies:
