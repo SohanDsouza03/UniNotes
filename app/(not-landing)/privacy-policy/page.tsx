@@ -4,7 +4,7 @@ export default function page() {
       <h1 className="text-[2.3rem] lg:text-[4.5rem] md:text-[4rem] leading-[1] font-bold dark:bg-gradient-to-b dark:from-[rgba(244,244,255,1)] dark:to-[rgba(181,180,207,1)] dark:text-transparent dark:bg-clip-text py-2 text-center">
         Privacy Policy
       </h1>
-      <p className="text-sm italic mb-6">Last updated: Jan 18, 2025</p>
+      <p className="text-sm italic mb-6">Last updated: Mar 26, 2025</p>
 
       <section className="mb-6">
         <h2 className="text-xl font-semibold mb-2">

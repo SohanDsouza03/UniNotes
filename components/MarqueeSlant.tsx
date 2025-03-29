@@ -21,7 +21,7 @@ const reviews = [
   {
     name: "Third Year Notes",
     username: "@UniNotes",
-    body: "Expertly crafted notes for third-year engineering.",
+    body: "Expertly crafted notes for third-year subjects.",
     img: "/marquee/marquee-1.jpg",
     link: "/tags/3rd-Year",
   },

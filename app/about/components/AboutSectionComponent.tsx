@@ -88,7 +88,7 @@ export default function AboutSectionComponent() {
           <CardContainer>
             <CardBody className="bg-gray-50 relative group/card dark:hover:shadow-2xl dark:hover:shadow-purple-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[20rem] lg:w-[24rem] xl:w-[30rem] h-auto rounded-xl p-4 border">
               <Image
-                src="/about-card/card-1.png"
+                src="/about-card/card1.jpg"
                 height={1000}
                 width={1000}
                 className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
@@ -109,7 +109,7 @@ export default function AboutSectionComponent() {
           <CardContainer>
             <CardBody className="bg-gray-50 relative group/card dark:hover:shadow-xl dark:hover:shadow-purple-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[20rem] lg:w-[24rem] xl:w-[30rem] h-auto rounded-xl p-4 border">
               <Image
-                src="/about-card/card-2.png"
+                src="/about-card/card1.jpg"
                 height={1000}
                 width={1000}
                 className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"

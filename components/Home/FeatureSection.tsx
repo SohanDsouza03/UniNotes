@@ -39,11 +39,11 @@ function FeatureSection() {
                     alt="Card Before"
                   />
                   <Image
-                    className="absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity object-cover duration-300 m-0 p-0 w-auto h-auto"
+                    className="absolute top-0 left-14 opacity-0 group-hover:opacity-100 transition-opacity object-cover duration-300 m-0 p-0 w-auto h-auto"
                     src="/featured/card-1-a.png"
                     priority={true}
-                    width={350}
-                    height={240}
+                    width={500}
+                    height={500}
                     alt="Card After"
                     aria-hidden="true"
                   />

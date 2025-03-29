@@ -4,7 +4,7 @@ export default function Page() {
       <h1 className="text-[2.3rem] lg:text-[4.5rem] md:text-[4rem] leading-[1] font-bold dark:bg-gradient-to-b dark:from-[rgba(244,244,255,1)] dark:to-[rgba(181,180,207,1)] dark:text-transparent dark:bg-clip-text py-2 text-center">
         Terms and Conditions
       </h1>
-      <p className="text-sm italic mb-6">Last updated: Jan 18, 2025</p>
+      <p className="text-sm italic mb-6">Last updated: Mar 26, 2025</p>
 
       <section className="mb-6">
         <h2 className="text-xl font-semibold mb-2">Welcome to UniNotes</h2>
@@ -71,14 +71,6 @@ export default function Page() {
         </p>
       </section>
 
-      <section className="mb-6">
-        <h3 className="text-lg font-medium mb-2">Governing Law</h3>
-        <p>
-          These terms are governed by the laws of India. Any disputes will be
-          resolved in the courts of Indore, Madhya Pradesh.
-        </p>
-      </section>
-
       <section>
         <h3 className="text-lg font-medium mb-2">Contact Us</h3>
         <p>
@@ -87,7 +79,7 @@ export default function Page() {
         </p>
         <address className="pl-4">
           <p>UniNotes</p>
-          <p>39, Ram Nivas Vijay Nagar Main Road, Indore 452010</p>
+          <p>Sohan dsouza,kwr,karnataka,india</p>
 
           <p>Email: UniNotes@gmail.com</p>
         </address>

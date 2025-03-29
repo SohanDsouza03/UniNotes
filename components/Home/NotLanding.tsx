@@ -25,13 +25,8 @@ export default function NotLanding() {
         Privacy policy
       </Link>
       <span className="opacity-40 hidden lg:block">|</span>
-      <Link
-        className="opacity-50 hover:opacity-100 transition-opacity duration-300 ease-in-out hidden lg:block"
-        href="/return-and-refund"
-      >
-        Cancellation/Refund Policy
-      </Link>
-      <span className="opacity-40 hidden lg:block">|</span>
+      
+    
       <Link
         className="opacity-50 hover:opacity-100 transition-opacity duration-300 ease-in-out hidden lg:block"
         href="/terms-and-conditions"

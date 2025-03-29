@@ -52,11 +52,11 @@ export function SiteFooter() {
         <div className="flex items-center gap-2 group">
           <img
             className="size-12 border border-gray-400 rounded-2xl hidden md:block group-hover:border-2"
-            src="/ram.png"
+            src="/sohan.jpg"
             alt=""
           />
           <p className="opacity-50 group-hover:opacity-100 transition-all duration-300 ease-in-out">
-            <Link target="_blank" href="https://x.com/sohandsouza03">
+            <Link target="_blank" href="https://www.instagram.com/sohan.dsouza.0302/">
               Build with ❤️ <span className="group-hover:underline transition-all duration-300 ease-in-out">Sohan</span>
             </Link>
           </p>
